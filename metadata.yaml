@@ -1,0 +1,31 @@
+_repo: The-Master-Mummer_28161
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28161-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Oppenheim, E. Phillips (Edward Phillips)
+    aliases:
+    - Partridge, Anthony
+    - Oppenheim, Edward Phillips
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '594'
+    url: http://www.gutenberg.org/2009/agents/594
+    wikipedia: http://en.wikipedia.org/wiki/E._Phillips_Oppenheim
+description: ''
+gutenberg_issued: '2009-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28161'
+  lccn: '04031604'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PR'
+title: The Master Mummer
+url: http://www.gutenberg.org/ebooks/28161
